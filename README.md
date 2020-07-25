@@ -1,1 +1,5 @@
 # ProjectGalcon
+needs:
+
+freeglut
+SOIL
